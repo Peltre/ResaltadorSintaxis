@@ -1,0 +1,43 @@
+.token-INT {
+    color: green;
+}
+
+.token-FLT {
+    color: blue;
+}
+
+.token-OPB {
+    color: pink;
+}
+
+.token-LRP, .token-RRP {
+    color: red;
+}
+
+.token-END {
+    color: orange;
+}
+
+.token-COM {
+    color: black;
+}
+
+.token-IDE {
+    color: darkslategrey;
+}
+
+.token-ASI {
+    color: teal;
+}
+
+.token-ERR {
+    color: brown;
+}
+
+.token-STR {
+    color: darkgrey;
+}
+
+.token-BOOL {
+    color: purple;
+}
